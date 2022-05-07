@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="text-align: center;">
+<div>
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyRCR)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <!--

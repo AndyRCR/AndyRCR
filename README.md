@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyRCR&show_icons=true&theme=tokyonight)](https://github.com/AndyRCR/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyRCR&show_icons=true&theme=tokyonight&layout=compact&langs_count=12)](https://github.com/AndyRCR/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyRCR&show_icons=true&theme=tokyonight&layout=compact&langs_count=6)](https://github.com/AndyRCR/github-readme-stats)
 
 <!--
 **AndyRCR/AndyRCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

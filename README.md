@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<script>
-  console.log('gaaaa')
-</script>
+Mucha caca, mucha pishi y mucho poto
 <!--
 **AndyRCR/AndyRCR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

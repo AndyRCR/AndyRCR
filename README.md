@@ -2,19 +2,9 @@
 Hi there 👋
 </h1>
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-```diff
 <p align="center">
 Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran interés en el area del desarrollo web full-stack. Me encanta imaginarme cosas y plasmarlas en código, tú dime "¿Como?" y yo te diré "Comenzemos" 😉
 </p>
- ```
  
 <div align="center">
 <img align="center" width="300px" src="https://c.tenor.com/r3k2FYIxJLQAAAAC/anime-thumbs-up.gif" />

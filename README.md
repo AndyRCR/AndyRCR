@@ -10,7 +10,7 @@ Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran int
 Domino las siguientes tecnologías: HTML5, CSS3(SASS), JavaScript, React, Node.js c/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku y GCP(SQL y Cloud Storage) y Microsoft Excel/Google Spreadsheets.
 </p>
 
-<img src="https://libero.cronosmedia.glr.pe/original/2021/07/16/60f1f904692bb97dce64070c.jpg" />
+<img  width="150px" src="https://libero.cronosmedia.glr.pe/original/2021/07/16/60f1f904692bb97dce64070c.jpg" />
 
 <div align="center">
 

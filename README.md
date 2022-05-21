@@ -6,9 +6,7 @@ Hi there 👋
 Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran interés en el area del desarrollo web full-stack. Me encanta imaginarme cosas y plasmarlas en código, tú dime "¿Como?" y yo te diré "Comenzemos" 😉
 </p>
 
-<div align="center">
-  <img align="center" src="https://c.tenor.com/r3k2FYIxJLQAAAAC/anime-thumbs-up.gif" />
-</div>
+<img align="center" src="https://c.tenor.com/r3k2FYIxJLQAAAAC/anime-thumbs-up.gif" />
 
 <p align="center">
 Domino las siguientes tecnologías: HTML5, CSS3(SASS), JavaScript, React, Node.js c/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku y GCP(SQL y Cloud Storage) y Microsoft Excel/Google Spreadsheets.

@@ -3,13 +3,14 @@ Hi there 👋
 </h1>
 
 ```diff
-+ text in red
+- text in red
 + text in green
 ! text in orange
 # text in gray
 @@ text in purple (and bold)@@
 ```
 
+```diff
 <p align="center">
 Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran interés en el area del desarrollo web full-stack. Me encanta imaginarme cosas y plasmarlas en código, tú dime "¿Como?" y yo te diré "Comenzemos" 😉
 </p>
@@ -21,6 +22,7 @@ Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran int
 <p align="center">
 Domino las siguientes tecnologías: HTML5, CSS3(SASS), JavaScript, React, Node.js c/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku y GCP(SQL y Cloud Storage) y Microsoft Excel/Google Spreadsheets.
 </p>
+ ```
  
 <br/>
  

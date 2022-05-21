@@ -2,18 +2,6 @@
 Hi there 👋
 </h1>
 
-<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink"
-     width="100" height="50"
->
-  <text font-size="16" x="10" y="20">
-    <tspan fill="red">Hello</tspan>,
-    <tspan fill="green">world</tspan>!
-  </text>
-</svg>
-
 <p align="center">
 Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran interés en el area del desarrollo web full-stack. Me encanta imaginarme cosas y plasmarlas en código, tú dime "¿Como?" y yo te diré "Comenzemos" 😉
 </p>
@@ -23,7 +11,7 @@ Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran int
 </div>
 
 <p align="center">
-Domino las siguientes tecnologías: HTML5, CSS3(SASS), JavaScript, React, Node.js c/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku y GCP(SQL y Cloud Storage) y Microsoft Excel/Google Spreadsheets.
+Domino las siguientes tecnologías: HTML5, CSS3(SASS), ![]https://img.shields.io/static/v1?label=&message=JavaScript&color=orange , React, Node.js c/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku y GCP(SQL y Cloud Storage) y Microsoft Excel/Google Spreadsheets.
 </p>
 
  

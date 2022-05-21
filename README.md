@@ -11,7 +11,7 @@ Domino las siguientes tecnologías: HTML5, CSS3(SASS), JavaScript, React, Node.j
 </p>
 
 <div align="center" style="margin-bottom: 200px">
-  <img width="50%" src="https://libero.cronosmedia.glr.pe/original/2021/07/16/60f1f904692bb97dce64070c.jpg" />
+  <img width="50%" src="[https://libero.cronosmedia.glr.pe/original/2021/07/16/60f1f904692bb97dce64070c.jpg](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)" />
 </div>
   
 <div align="center">

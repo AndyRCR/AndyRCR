@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 <p align="center">
-Gaaa
+
 </p>
 
 <div align="center">

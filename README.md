@@ -1,7 +1,6 @@
-<div align="center">
+<h1 align="center">
 Hi there 👋
-</div>
-
+</h1>
 
 <p align="center">
 Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran interés en el area del desarrollo web Front-end. Me encanta imaginarme cosas y plasmarlas en código, tú dime "¿Como?" y yo te diré "Comenzemos" 😉

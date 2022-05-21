@@ -7,7 +7,7 @@ Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran int
 </p>
  
 <p align="center">
-<img border="5" align="center" width="300px" src="https://c.tenor.com/r3k2FYIxJLQAAAAC/anime-thumbs-up.gif" />
+<img align="center" width="300px" src="https://c.tenor.com/r3k2FYIxJLQAAAAC/anime-thumbs-up.gif" />
 </p>
 
 <p align="center">

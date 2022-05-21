@@ -8,6 +8,7 @@ Mi cargo o trabajo mas importante que desempeñe fue el puesto de Líder de proy
 Domino las siguientes tecnologías: HTM5L, CSS3(SASS), JavaScript, React, Node.js c/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku y GCP(SQL y Cloud Storage) y Microsoft Excel/Google Spreadsheets.
 </p>
 
+
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyRCR&show_icons=true&theme=tokyonight)](https://github.com/AndyRCR/github-readme-stats)

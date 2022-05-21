@@ -5,9 +5,12 @@ Hi there 👋
 <p align="center">
 Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran interés en el area del desarrollo web Front-end. Me encanta imaginarme cosas y plasmarlas en código, tú dime "¿Como?" y yo te diré "Comenzemos" 😉
 </p>
+
 <p align="center">
 Domino las siguientes tecnologías: HTML5, CSS3(SASS), JavaScript, React, Node.js c/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku y GCP(SQL y Cloud Storage) y Microsoft Excel/Google Spreadsheets.
 </p>
+
+<img src="https://libero.cronosmedia.glr.pe/original/2021/07/16/60f1f904692bb97dce64070c.jpg" />
 
 <div align="center">
 

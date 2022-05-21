@@ -18,9 +18,9 @@ Domino las siguientes tecnologías: HTML5, CSS3(SASS), JavaScript, React, Node.j
  
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyRCR&title_color=fff&icon_color=EAD41C&show_icons=true&text_color=fff&bg_color=DEG,000,434343)](https://github.com/AndyRCR/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyRCR&title_color=fff&icon_color=EAD41C&show_icons=true&text_color=fff&bg_color=DEG,262626,434343)](https://github.com/AndyRCR/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyRCR&show_icons=true&title_color=fff&text_color=fff&layout=compact&bg_color=DEG,434343,000)](https://github.com/AndyRCR/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndyRCR&show_icons=true&title_color=fff&text_color=fff&layout=compact&bg_color=DEG,434343,262626)](https://github.com/AndyRCR/github-readme-stats)
 
 </div>
 

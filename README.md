@@ -5,6 +5,8 @@
 Hi there 👋
 </h1>
 
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+
 <p align="center">
 Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran interés en el area del desarrollo web full-stack. Me encanta imaginarme cosas y plasmarlas en código, tú dime "¿Como?" y yo te diré "Comenzemos" 😉
 </p>

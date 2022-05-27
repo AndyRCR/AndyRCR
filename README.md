@@ -3,7 +3,7 @@ Hi there 👋
 </h1>
 
 <p align="center">
-Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran interés en el area del desarrollo web full-stack. Me encanta imaginarme cosas y plasmarlas en código, tú dime "¿Como?" y yo te diré "Comenzemos" 😉
+I am a student soon to finish my degree in Systems Engineering, with a great interest in the area of full-stack web development. I love to imagine things and translate them into code, just ask me "How?" and I'll answer you "Let's start" 😉
 </p>
  
 <p align="center">
@@ -11,7 +11,7 @@ Soy un estudiante afin de la carrera de Ingeniería de Sistemas, con un gran int
 </p>
 
 <p align="center">
-Domino las siguientes tecnologías: HTML5, CSS3(SASS), JavaScript, React, Node.js c/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku, GCP(SQL y Cloud Storage) y Microsoft Excel/Google Spreadsheets.
+I domain the following technologies: HTML5, CSS3(SASS), JavaScript, React, Node.js w/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku, GCP(SQL and Cloud Storage) and Microsoft Excel/Google Spreadsheets.
 </p>
  
 <br/>

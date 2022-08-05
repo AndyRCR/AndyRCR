@@ -11,7 +11,7 @@ I am a student soon to finish my degree in Systems Engineering, with a great int
 </p>
 
 <p align="center">
-I domain the following technologies: HTML5, CSS3(SASS), JavaScript, React, Node.js w/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku, GCP(SQL and Cloud Storage) and Microsoft Excel/Google Spreadsheets.
+I domain the following technologies: HTML5, CSS3(SASS), JavaScript, React, Node.js w/ Express.js, Three.js, MySQL, MongoDB, Google Data Studio, Git, Heroku, AWS(RDS, S3, API Gateway,Lambda) and Microsoft Excel/Google Spreadsheets.
 </p>
  
 <br/>

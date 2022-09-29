@@ -7,7 +7,7 @@ I am a student soon to finish my degree in Systems Engineering, with a great int
 </p>
  
 <p align="center">
-<img align="center" width="300px" src="https://c.tenor.com/r3k2FYIxJLQAAAAC/anime-thumbs-up.gif" />
+<img align="center" width="300px" src="https://c.tenor.com/QcrcBpXx3qYAAAAM/boy-kid.gif" />
 </p>
 
 <p align="center">
